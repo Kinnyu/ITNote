@@ -57,7 +57,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "檔案瀏覽器"
@@ -199,8 +201,10 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "b72a0f35b96a5fb5",
+  "active": "73e6efa06a090c65",
   "lastOpenFiles": [
+    "images",
+    "1.1 コンピュータの基本構成 - 五大装置.md",
     "歡迎.md"
   ]
 }
