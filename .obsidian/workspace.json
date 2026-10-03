@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "筆記規範.md",
+                "file": "1.1 コンピュータの基本構成 - 五大装置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "筆記規範"
+              "title": "1.1 コンピュータの基本構成 - 五大装置"
             }
           },
           {
@@ -201,6 +201,7 @@
   },
   "active": "73e6efa06a090c65",
   "lastOpenFiles": [
+    "9.1 ストラテジ - 経営指標.md",
     "總覽.md",
     "筆記規範.md",
     "単語本.md",
